@@ -1,7 +1,7 @@
 ---
 title: Hello World
 ---
-Welcome to Event-B Organization Webpage!
+B-Hive Hello World
 
 ## First Section
 
