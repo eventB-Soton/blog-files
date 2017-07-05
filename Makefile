@@ -1,3 +1,6 @@
+pull:
+	git pull --recurse-submodules
+
 deploy:
 	git pull --recurse-submodules
 	hexo clean
