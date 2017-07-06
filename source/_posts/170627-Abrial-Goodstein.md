@@ -1,8 +1,8 @@
 ---
 title: An exercise in Mathematical Engineering - proving weak and strong Goodstein theorems.
 date: 2017-07-05 21:38:57
-tags: [Event-B, Presentations, Proofs, Rodin archives]
-categories: [Event, ESS Seminar]
+tags: [Presentations, Proofs, Rodin archives]
+category: [Event, ESS Seminar]
 ---
 
 **Event**: ESS Seminar
