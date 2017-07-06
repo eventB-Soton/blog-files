@@ -5,14 +5,14 @@
 # Site
 title: B-Hive @ Soton
 subtitle:
-description:
-author: Chenyang Zhu, Thai Son Hoang
+description: Everything Event-B at University of Southampton 
+author: Event-B @ Soton
 language: en
 timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://eventb-soton.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

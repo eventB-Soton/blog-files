@@ -1,7 +1,7 @@
 ---
 title: An exercise in Mathematical Engineering - proving weak and strong Goodstein theorems.
 date: 2017-07-05 21:38:57
-tags: [Event-B, ESS Seminar, Proofs]
+tags: [Event-B, Presentations, Proofs, Rodin archives]
 categories: [Event, ESS Seminar]
 ---
 
@@ -10,6 +10,12 @@ categories: [Event, ESS Seminar]
 **Location**: 58 / 1065 (Murray Building)
 **Date**: Tuesday, 27/06/2017
 **Time**: 14:00–15:00
+**Material**:
+- [Slides](/media_bin/170627-Abrial-Goodstein/A_sld_goodstein_new_V5.pdf)
+- [Goodstein0 Rodin archive](/media_bin/170627-Abrial-Goodstein/Goodstein0.zip)
+- [Goodstein1 Rodin archive](/media_bin/170627-Abrial-Goodstein/Goodstein1.zip)
+- [Goodstein2 Rodin archive](/media_bin/170627-Abrial-Goodstein/Goodstein2.zip)
+- [Goodstein3 Rodin archive](/media_bin/170627-Abrial-Goodstein/Goodstein3.zip)
  
 ## Abstract ##
 For many years I have been working on some technologies to be used in the development of large computerised systems using a “correct-by-construction” approach. I was also involved in teaching this to many students around the world. One of the most important aspects of this approach is the mastering of formal proofs by means of some tools.  For this reason, I found that it was very important to give students a serious refreshment about proving. After introducing to some background, I found that the best way to continue was to introduce students to some important proofs done in pure mathematics. But I was a bit disappointed with what I found in math textbooks. There are clearly many proofs but I found that mathematicians do not take enough time to explain the way they discover and present such proofs. So, I decided to do it by myself. This is what I call “Mathematical Engineering”: trying to explain in depth what is the approach used in a proof. I also found that this what not too far from what should be done in the formal development of systems. Among the proofs I studied, one is that of a very counterintuitive theorem presented by Reuben Goodstein in 1944. In this seminar, I will present and explain this proof (proved with the Rodin tool set).
