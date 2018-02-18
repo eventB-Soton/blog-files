@@ -7,3 +7,4 @@
 6. *ac.soton.eventb.emf.oracle.feature* Oracle feature
 7. *ac.soton.eventb.statemachines.feature/sdk* Statemachines
 8. *ac.soton.eventb.emf.inclusion.feature/tests/sdk* EMF Inclusion
+9. *ac.soton.eventb.emf.decompsotion.feature

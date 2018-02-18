@@ -66,6 +66,15 @@
    <feature url="features/ac.soton.eventb.components.feature_6.0.0.201802182026.jar" id="ac.soton.eventb.components.feature" version="6.0.0.201802182026">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.feature_0.2.1.qualifier.jar" id="ac.soton.eventb.emf.inclusion.feature" version="0.2.1.qualifier">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.sdk_0.2.1.201802182035.jar" id="ac.soton.eventb.emf.inclusion.sdk" version="0.2.1.201802182035">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.2.1.qualifier.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.2.1.qualifier">
+      <category name="Frameworks"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
