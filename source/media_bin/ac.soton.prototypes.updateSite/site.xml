@@ -75,6 +75,9 @@
    <feature url="features/ac.soton.eventb.emf.inclusion.tests.feature_0.2.1.qualifier.jar" id="ac.soton.eventb.emf.inclusion.tests.feature" version="0.2.1.qualifier">
       <category name="Frameworks"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.decomposition.feature_0.1.0.201802182037.jar" id="ac.soton.eventb.emf.decomposition.feature" version="0.1.0.201802182037">
+      <category name="Composition_and_Decomposition"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
