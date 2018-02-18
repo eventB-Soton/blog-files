@@ -78,6 +78,12 @@
    <feature url="features/ac.soton.eventb.emf.decomposition.feature_0.1.0.201802182037.jar" id="ac.soton.eventb.emf.decomposition.feature" version="0.1.0.201802182037">
       <category name="Composition_and_Decomposition"/>
    </feature>
+   <feature url="features/ac.soton.coda.ui.feature_0.0.5.201802182045.jar" id="ac.soton.coda.ui.feature" version="0.0.5.201802182045">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.coda.simulator.feature_2.1.2.201802182048.jar" id="ac.soton.coda.simulator.feature" version="2.1.2.201802182048">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.

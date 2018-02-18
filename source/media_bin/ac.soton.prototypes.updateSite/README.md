@@ -9,3 +9,5 @@
 8. *ac.soton.eventb.emf.inclusion.feature/tests/sdk* EMF Inclusion
 9. *ac.soton.eventb.emf.decompsotion.feature* SharedEvent Decompositon based on defining regions (for Rodin 3.x.x)
 10. *ac.soton.eventb.components.feature* Component Diagrams (for Rodin 3.2.x)
+11. *ac.soton.coda.ui.feature* CODA User Interface.
+12. *ac.soton.coda.simulator.feature* CODA Simulator for component diagrams for Rodin 3.1.x
