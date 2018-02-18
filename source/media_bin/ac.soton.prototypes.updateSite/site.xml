@@ -84,6 +84,15 @@
    <feature url="features/ac.soton.coda.simulator.feature_2.1.2.201802182048.jar" id="ac.soton.coda.simulator.feature" version="2.1.2.201802182048">
       <category name="Validation"/>
    </feature>
+   <feature url="features/ac.soton.coda.vhdl.feature_0.0.5.qualifier.jar" id="ac.soton.coda.vhdl.feature" version="0.0.5.qualifier">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.coda.vhdl.sdk_0.0.5.201802182054.jar" id="ac.soton.coda.vhdl.sdk" version="0.0.5.201802182054">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.coda.vhdl.tests.feature_0.0.5.qualifier.jar" id="ac.soton.coda.vhdl.tests.feature" version="0.0.5.qualifier">
+      <category name="Utilities"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
