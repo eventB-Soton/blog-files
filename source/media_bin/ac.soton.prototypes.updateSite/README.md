@@ -11,3 +11,4 @@
 10. *ac.soton.eventb.components.feature* Component Diagrams (for Rodin 3.2.x)
 11. *ac.soton.coda.ui.feature* CODA User Interface.
 12. *ac.soton.coda.simulator.feature* CODA Simulator for component diagrams for Rodin 3.1.x
+13. *ac.soton.eventb.statemachines.animation.feature* iUML-B Statemachine Animation (for Rodin 3.x + ProB1 3.x)

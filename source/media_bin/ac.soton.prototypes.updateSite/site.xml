@@ -93,6 +93,9 @@
    <feature url="features/ac.soton.coda.vhdl.tests.feature_0.0.5.qualifier.jar" id="ac.soton.coda.vhdl.tests.feature" version="0.0.5.qualifier">
       <category name="Utilities"/>
    </feature>
+   <feature url="features/ac.soton.eventb.statemachines.animation.feature_2.3.1.201802191329.jar" id="ac.soton.eventb.statemachines.animation.feature" version="2.3.1.201802191329">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
