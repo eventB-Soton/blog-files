@@ -96,6 +96,9 @@
    <feature url="features/ac.soton.eventb.statemachines.animation.feature_2.3.1.201802191329.jar" id="ac.soton.eventb.statemachines.animation.feature" version="2.3.1.201802191329">
       <category name="Validation"/>
    </feature>
+   <feature url="features/ac.soton.emf.translator.sdk_3.0.0.201802191409.jar" id="ac.soton.emf.translator.sdk" version="3.0.0.201802191409">
+      <category name="Frameworks"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
