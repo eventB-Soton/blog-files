@@ -42,10 +42,10 @@
    <feature url="features/ac.soton.emf.translator.eventb.sdk_0.0.1.201802181927.jar" id="ac.soton.emf.translator.eventb.sdk" version="0.0.1.201802181927">
       <category name="Frameworks"/>
    </feature>
-   <feature url="features/ac.soton.emf.translator.sdk_3.0.0.201802181926.jar" id="ac.soton.emf.translator.sdk" version="3.0.0.201802181926">
+   <feature url="features/ac.soton.emf.translator.sdk_3.0.0.201802191657.jar" id="ac.soton.emf.translator.sdk" version="3.0.0.201802191657">
       <category name="Frameworks"/>
    </feature>
-   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_5.4.1.201802181942.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="5.4.1.201802181942">
+   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_5.4.1.201802191657.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="5.4.1.201802191657">
       <category name="Frameworks"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.diagrams.sdk_7.0.0.201802181951.jar" id="ac.soton.eventb.emf.diagrams.sdk" version="7.0.0.201802181951">
@@ -63,7 +63,7 @@
    <feature url="features/ac.soton.eventb.statemachines.feature_4.0.0.qualifier.jar" id="ac.soton.eventb.statemachines.feature" version="4.0.0.qualifier">
       <category name="Modelling_Extensions"/>
    </feature>
-   <feature url="features/ac.soton.eventb.components.feature_6.0.0.201802182026.jar" id="ac.soton.eventb.components.feature" version="6.0.0.201802182026">
+   <feature url="features/ac.soton.eventb.components.feature_6.0.0.201802201052.jar" id="ac.soton.eventb.components.feature" version="6.0.0.201802201052">
       <category name="Modelling_Extensions"/>
    </feature>
    <feature url="features/ac.soton.eventb.emf.inclusion.feature_0.2.1.qualifier.jar" id="ac.soton.eventb.emf.inclusion.feature" version="0.2.1.qualifier">
@@ -92,6 +92,12 @@
    </feature>
    <feature url="features/ac.soton.coda.vhdl.tests.feature_0.0.5.qualifier.jar" id="ac.soton.coda.vhdl.tests.feature" version="0.0.5.qualifier">
       <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.animation.feature_2.3.1.201802191730.jar" id="ac.soton.eventb.statemachines.animation.feature" version="2.3.1.201802191730">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.components.feature_6.0.0.201802201055.jar" id="ac.soton.eventb.components.feature" version="6.0.0.201802201055">
+      <category name="Modelling_Extensions"/>
    </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
