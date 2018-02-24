@@ -102,6 +102,9 @@
    <feature url="features/ac.soton.eventb.emf.core.extension.sdk_5.4.1.201802191841.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="5.4.1.201802191841">
       <category name="Frameworks"/>
    </feature>
+   <feature url="features/ac.soton.eventb.components.feature_6.0.0.201802201413.jar" id="ac.soton.eventb.components.feature" version="6.0.0.201802201413">
+      <category name="Modelling_Extensions"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
