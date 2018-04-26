@@ -147,6 +147,12 @@
    <feature url="features/ac.soton.scxml.sirius.feature_0.0.1.201804041425.jar" id="ac.soton.scxml.sirius.feature" version="0.0.1.201804041425">
       <category name="SCXML"/>
    </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.0.0.qualifier.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.0.0.qualifier">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.0.201804270000.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.0.201804270000">
+      <category name="Modelling_Extensions"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
