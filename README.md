@@ -1,4 +1,4 @@
-This repository contains the source files to generate the webpage at [http://eventB-Soton.githug.io](http://eventB-Soton.githug.io)
+This repository contains the source files to generate the webpage at [http://eventB-Soton.github.io](http://eventB-Soton.github.io)
 
 # Requirements #
 - [hexo](https://hexo.io). See Installation note below

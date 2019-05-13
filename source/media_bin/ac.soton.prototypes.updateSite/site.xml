@@ -156,6 +156,21 @@
    <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.0.201805151826.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.0.201805151826">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.feature_7.0.1.qualifier.jar" id="ac.soton.eventb.emf.diagrams.feature" version="7.0.1.qualifier">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.sdk_7.0.1.201811201411.jar" id="ac.soton.eventb.emf.diagrams.sdk" version="7.0.1.201811201411">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.0.1.qualifier.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.0.1.qualifier">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.1.201811201412.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.1.201811201412">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.1.201811201423.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.1.201811201423">
+      <category name="Modelling_Extensions"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
