@@ -183,6 +183,24 @@
    <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201905121932.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201905121932">
       <category name="Validation"/>
    </feature>
+   <feature url="features/ac.soton.xeventb.xproofassistant.feature_0.1.0.201905131225.jar" id="ac.soton.xeventb.xproofassistant.feature" version="0.1.0.201905131225">
+      <category name="Prover_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.containment.feature_0.1.0.201905131232.jar" id="ac.soton.eventb.emf.containment.feature" version="0.1.0.201905131232">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.feature_7.1.0.201905131233.jar" id="ac.soton.eventb.emf.diagrams.feature" version="7.1.0.201905131233">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.feature_1.0.1.201905131233.jar" id="ac.soton.xeventb.feature" version="1.0.1.201905131233">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.feature_0.0.1.release.jar" id="ac.soton.emf.translator.eventb.feature" version="0.0.1.release">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.feature_3.0.1.201905131512.jar" id="ac.soton.emf.translator.feature" version="3.0.1.201905131512">
+      <category name="Frameworks"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
