@@ -219,6 +219,12 @@
    <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201905131745.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201905131745">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201906011528.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201906011528">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201906031728.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201906031728">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
