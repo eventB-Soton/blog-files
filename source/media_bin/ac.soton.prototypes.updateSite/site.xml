@@ -228,6 +228,9 @@
    <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201906191526.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201906191526">
       <category name="SCXML"/>
    </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201907161615.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201907161615">
+      <category name="Modelling_Extensions"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
