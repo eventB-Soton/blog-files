@@ -231,6 +231,15 @@
    <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201907161615.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201907161615">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.feature_0.1.0.qualifier.jar" id="ac.soton.emf.translator.eventb.feature" version="0.1.0.qualifier">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.sdk_0.1.0.201907161649.jar" id="ac.soton.emf.translator.eventb.sdk" version="0.1.0.201907161649">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201907161650.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201907161650">
+      <category name="Modelling_Extensions"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
