@@ -246,6 +246,9 @@
    <feature url="features/ac.soton.eventb.emf.core.extension.sdk_6.1.0.201907181221.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="6.1.0.201907181221">
       <category name="Frameworks"/>
    </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201908160008.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201908160008">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
