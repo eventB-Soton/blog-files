@@ -264,6 +264,18 @@
    <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201909061207.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201909061207">
       <category name="SCXML"/>
    </feature>
+   <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201909061228.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201909061228">
+      <category name="SCXML"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.201909091852.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.201909091852">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.coda.simulator.feature_3.0.1.release.jar" id="ac.soton.coda.simulator.feature" version="3.0.1.release">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201909101503.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201909101503">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
