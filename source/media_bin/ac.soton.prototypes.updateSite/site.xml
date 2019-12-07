@@ -279,6 +279,9 @@
    <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201912061118.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201912061118">
       <category name="Validation"/>
    </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201912062304.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201912062304">
+      <category name="Utilities"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
