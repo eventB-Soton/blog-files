@@ -171,6 +171,60 @@
    <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.1.201811201423.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.1.201811201423">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201905121245.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201905121245">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201905121534.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201905121534">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201905121714.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201905121714">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201905121932.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201905121932">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.xproofassistant.feature_0.1.0.201905131225.jar" id="ac.soton.xeventb.xproofassistant.feature" version="0.1.0.201905131225">
+      <category name="Prover_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.containment.feature_0.1.0.201905131232.jar" id="ac.soton.eventb.emf.containment.feature" version="0.1.0.201905131232">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.diagrams.feature_7.1.0.201905131233.jar" id="ac.soton.eventb.emf.diagrams.feature" version="7.1.0.201905131233">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.xeventb.feature_1.0.1.201905131233.jar" id="ac.soton.xeventb.feature" version="1.0.1.201905131233">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.feature_0.0.1.release.jar" id="ac.soton.emf.translator.eventb.feature" version="0.0.1.release">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.feature_3.0.1.201905131512.jar" id="ac.soton.emf.translator.feature" version="3.0.1.201905131512">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.qualifier.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.qualifier">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.1.0.release.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.1.0.release">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.animation.feature_2.5.0.release.jar" id="ac.soton.eventb.statemachines.animation.feature" version="2.5.0.release">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.animation.sdk_2.5.0.release.jar" id="ac.soton.eventb.statemachines.animation.sdk" version="2.5.0.release">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.feature_4.0.1.qualifier.jar" id="ac.soton.eventb.statemachines.feature" version="4.0.1.qualifier">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201905131745.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201905131745">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201906011528.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201906011528">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201906031728.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201906031728">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.

@@ -1,7 +1,7 @@
 ---
 title: XEvent-B 0.0.6 Release
 date: 2017-07-23 00:25:24
-tags: [XEvent-B, Machine Inclusion]
+tags: [CamilleX, Machine Inclusion]
 category: [Rodin Plug-ins]
 ---
 
