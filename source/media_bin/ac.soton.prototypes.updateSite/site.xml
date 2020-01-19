@@ -291,6 +291,9 @@
    <feature url="features/ac.soton.eventb.classdiagrams.source.feature_2.0.1.release.jar" id="ac.soton.eventb.classdiagrams.source.feature" version="2.0.1.release">
       <category name="Modelling_Extensions"/>
    </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.202001191212.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.202001191212">
+      <category name="Validation"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
