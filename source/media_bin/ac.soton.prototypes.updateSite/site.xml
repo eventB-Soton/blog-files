@@ -201,9 +201,6 @@
    <feature url="features/ac.soton.emf.translator.feature_3.0.1.201905131512.jar" id="ac.soton.emf.translator.feature" version="3.0.1.201905131512">
       <category name="Frameworks"/>
    </feature>
-   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.qualifier.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.qualifier">
-      <category name="Modelling_Extensions"/>
-   </feature>
    <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.1.0.release.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.1.0.release">
       <category name="Modelling_Extensions"/>
    </feature>
@@ -224,6 +221,75 @@
    </feature>
    <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201906031728.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201906031728">
       <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201906191526.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201906191526">
+      <category name="SCXML"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201907161615.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201907161615">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.feature_0.1.0.qualifier.jar" id="ac.soton.emf.translator.eventb.feature" version="0.1.0.qualifier">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.emf.translator.eventb.sdk_0.1.0.201907161649.jar" id="ac.soton.emf.translator.eventb.sdk" version="0.1.0.201907161649">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.statemachines.sdk_4.0.1.201907161650.jar" id="ac.soton.eventb.statemachines.sdk" version="4.0.1.201907161650">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.feature_6.1.0.201909021339.jar" id="ac.soton.eventb.emf.core.extension.feature" version="6.1.0.201909021339">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_6.1.0.201907181221.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="6.1.0.201907181221">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201908160008.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201908160008">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.sdk_6.1.0.201908291755.jar" id="ac.soton.eventb.emf.core.extension.sdk" version="6.1.0.201908291755">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.merger.feature_0.0.0.201908311440.jar" id="ac.soton.eventb.classdiagrams.merger.feature" version="0.0.0.201908311440">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.0.1.release.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.0.1.release">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.201908311615.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.201908311615">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.emf.core.extension.feature_6.0.0.release.jar" id="ac.soton.eventb.emf.core.extension.feature" version="6.0.0.release">
+      <category name="Frameworks"/>
+   </feature>
+   <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201909061207.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201909061207">
+      <category name="SCXML"/>
+   </feature>
+   <feature url="features/ac.soton.scxml.eventb.feature_0.2.0.201909061228.jar" id="ac.soton.scxml.eventb.feature" version="0.2.0.201909061228">
+      <category name="SCXML"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.201909091852.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.201909091852">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.coda.simulator.feature_3.0.1.release.jar" id="ac.soton.coda.simulator.feature" version="3.0.1.release">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201909101503.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201909101503">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201912061118.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201912061118">
+      <category name="Validation"/>
+   </feature>
+   <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.201912062304.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.201912062304">
+      <category name="Utilities"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.feature_2.1.0.qualifier.jar" id="ac.soton.eventb.classdiagrams.feature" version="2.1.0.qualifier">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.sdk_2.0.1.release.jar" id="ac.soton.eventb.classdiagrams.sdk" version="2.0.1.release">
+      <category name="Modelling_Extensions"/>
+   </feature>
+   <feature url="features/ac.soton.eventb.classdiagrams.source.feature_2.0.1.release.jar" id="ac.soton.eventb.classdiagrams.source.feature" version="2.0.1.release">
+      <category name="Modelling_Extensions"/>
    </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
