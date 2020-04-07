@@ -24,10 +24,10 @@ npm install hexo-cli -g
 npm install
 ```
 2. Configure the themes (we are using Next.Mist)
-- Install the [Next theme](https://github.com/iissnan/hexo-theme-next)
+- Install the [Next theme](https://github.com/theme-next)
 ```
 cd themes
-git clone https://github.com/iissnan/hexo-theme-next.git next
+git clone https://github.com/theme-next next
 ```
 - Configure the Next theme to use *Mist* scheme by setting *scheme: Mist* in *themes/next/_config.yml* (commented out other schemes).
 ```
