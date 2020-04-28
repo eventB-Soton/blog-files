@@ -27,7 +27,7 @@ npm install
 - Install the [Next theme](https://github.com/theme-next)
 ```
 cd themes
-git clone https://github.com/theme-next next
+git clone https://github.com/theme-next/hexo-theme-next next
 ```
 - Configure the Next theme to use *Mist* scheme by setting *scheme: Mist* in *themes/next/_config.yml* (commented out other schemes).
 ```
