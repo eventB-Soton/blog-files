@@ -294,6 +294,9 @@
    <feature url="features/ac.soton.umlb.simulator.feature_0.0.0.202001191212.jar" id="ac.soton.umlb.simulator.feature" version="0.0.0.202001191212">
       <category name="Validation"/>
    </feature>
+   <feature url="features/org.rodinp.licence_1.0.0.release.jar" id="org.rodinp.licence" version="1.0.0.release">
+      <category name="Utilities"/>
+   </feature>
    <category-def name="Composition_and_Decomposition" label="Composition and Decomposition">
       <description>
          Tools that support model composition and decomposition.
